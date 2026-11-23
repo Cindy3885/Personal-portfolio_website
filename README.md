@@ -80,6 +80,8 @@ A custom favicon was added to give the website a recognisable visual identity in
 
 ![Custom Favicon](02_favicon_added.png)
 
+![Mobile Favicon & Shared Link Preview](02_mobile_favicon.jpg)
+
 ### 3. About Me
 
 The About Me page provides a personal and professional introduction, including background information, working approach, values and what visitors can expect.
@@ -139,8 +141,6 @@ It also includes an enquiry form integrated with Google Sheets to provide a prac
 Google Sites automatically adapts website layouts for mobile viewing. The following screenshots are included to demonstrate the mobile presentation of the pages and document a visual quality check to ensure that the content and navigation display as intended.
 
 ![Mobile Home](01_mobile_home.jpg)
-
-![Mobile Favicon & Shared Link Preview](02_mobile_favicon.jpg)
 
 ![Mobile About Me](03_mobile_about_me.jpg)
 
